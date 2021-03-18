@@ -1,0 +1,16 @@
+C:\Swinburne 2021\SelectionTask\bin\Debug\net5.0\SelectionTask.exe
+C:\Swinburne 2021\SelectionTask\bin\Debug\net5.0\SelectionTask.deps.json
+C:\Swinburne 2021\SelectionTask\bin\Debug\net5.0\SelectionTask.runtimeconfig.json
+C:\Swinburne 2021\SelectionTask\bin\Debug\net5.0\SelectionTask.runtimeconfig.dev.json
+C:\Swinburne 2021\SelectionTask\bin\Debug\net5.0\SelectionTask.dll
+C:\Swinburne 2021\SelectionTask\bin\Debug\net5.0\ref\SelectionTask.dll
+C:\Swinburne 2021\SelectionTask\bin\Debug\net5.0\SelectionTask.pdb
+C:\Swinburne 2021\SelectionTask\obj\Debug\net5.0\SelectionTask.csprojAssemblyReference.cache
+C:\Swinburne 2021\SelectionTask\obj\Debug\net5.0\SelectionTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Swinburne 2021\SelectionTask\obj\Debug\net5.0\SelectionTask.AssemblyInfoInputs.cache
+C:\Swinburne 2021\SelectionTask\obj\Debug\net5.0\SelectionTask.AssemblyInfo.cs
+C:\Swinburne 2021\SelectionTask\obj\Debug\net5.0\SelectionTask.csproj.CoreCompileInputs.cache
+C:\Swinburne 2021\SelectionTask\obj\Debug\net5.0\SelectionTask.dll
+C:\Swinburne 2021\SelectionTask\obj\Debug\net5.0\ref\SelectionTask.dll
+C:\Swinburne 2021\SelectionTask\obj\Debug\net5.0\SelectionTask.pdb
+C:\Swinburne 2021\SelectionTask\obj\Debug\net5.0\SelectionTask.genruntimeconfig.cache
